@@ -1,4 +1,8 @@
-numpy
+numpy==1.26.0
 jax[cuda12]
 tqdm
 matplotlib
+gymnasium
+ale-py
+opencv-python
+flax[all]
